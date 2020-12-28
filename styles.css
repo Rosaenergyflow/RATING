@@ -8,7 +8,6 @@
     font-weight: normal;
     font-style: normal;
 }
-
 body{                             
     background-color: #F4D07A;
     width: 100vw;
@@ -33,7 +32,6 @@ body{
 	cursor:pointer;
 	float: right;  
 }
-
 #divCorazones div:hover,
 #divCorazones div:hover ~ div,
 .coloreado{
